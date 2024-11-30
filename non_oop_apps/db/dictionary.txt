@@ -1,0 +1,6 @@
+hello=გამარჯობა
+goodbye=ნახვამდის
+please=გთხოვთ
+thank you=გმადლობთ
+yes=დიახ
+no=არა
